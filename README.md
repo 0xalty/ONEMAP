@@ -5,7 +5,7 @@ A city suspended from its location becomes an interface that interacts with the 
 
 Users create their own maps, By sharing the image of each city create digital indigeneity by sharing the image of each city.
 
-### issue
+### issues
 Allow users to place photos
 <br> Linkage with Google map
 <br> Connect with meta mask
