@@ -1,0 +1,73 @@
+<html>
+
+	<head>
+	
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />	
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	
+		<title>ONE MAP</title>
+		
+	</head>
+
+	<body>
+	
+		<div class="base">
+		
+			<div class="header">ONE MAP @ichigaya</div>
+		
+			<div id="masterpane" class="masterpane">
+				<div id="detailpanel" class="detailpanel"></div>
+			</div>
+
+		</div>
+
+	</body>
+
+	<template id="masteritemtemplate">
+	
+		<!-- Template for master item starts -->
+		
+		<div class="masteritem">
+			<div data-key="icon" style="font-size: 44px; line-height: 1;"></div>
+		</div>
+
+		<!-- Template for master item ends -->
+	
+	</template>
+
+	<template id="detailtemplate">
+	
+		<!-- Template for detail starts -->
+		
+		<div class="detail">
+			
+			<div>
+				<span style="font-size: 13px; font-weight: bold;">地名:</span> <span data-key="type" style="font-size: 13px;"></span>
+			</div>
+
+			<div>
+				<span style="font-size: 13px; font-weight: bold;">日付:</span> <span data-key="date" style="font-size: 13px;"></span>
+			</div>
+	
+			<div><img data-key="image" data-attr-key="src" alt="" /></div>
+
+			<div style="margin-top: 5px;">
+				<button data-action="showComment">コメント</button>
+			</div>
+
+			<div style="margin-top: 5px;">
+				<button data-action="link">場所</button>
+			</div>
+	
+		</div>
+		
+		<!-- Template for detial ends -->
+	
+	</template>
+	
+</html>
+
+<script src="data.js"></script>
+<script src="model.js"></script>
+<script src="viewcontroller.js"></script>
