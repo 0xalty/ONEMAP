@@ -10,12 +10,13 @@ class UFO {
 		this.date = data.date;
 		this.comment = data.comment;
 		this.image = data.image
+		this.rarelity = data.rarelity;
 		this.GeolocationPosition = data.GeolocationPosition
 	}
 
-	showComment() {
-		alert( this.comment );
-	}
+	// showComment() {
+	// 	alert( this.comment );
+	// }
 
 	link() {
 		location.href = this.GeolocationPosition;

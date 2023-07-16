@@ -2,6 +2,7 @@ dataArray = [
 	
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 25,
 		y: 125,
@@ -13,6 +14,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '赤門',
 		x: 25,
 		y: 115,
@@ -24,6 +26,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '街中華',
 		x: 25,
 		y: 105,
@@ -35,6 +38,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '二枚貝',
 		x: 25,
 		y: 90,
@@ -46,6 +50,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: 'NHK',
 		x: 25,
 		y: 75,
@@ -57,6 +62,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 25,
 		y: 55,
@@ -68,6 +74,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -79,6 +86,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -90,6 +98,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -101,6 +110,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -112,6 +122,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -123,6 +134,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -134,6 +146,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -145,6 +158,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -156,6 +170,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -167,6 +182,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -178,6 +194,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -189,6 +206,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -200,6 +218,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -211,6 +230,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -222,6 +242,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -233,6 +254,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -244,6 +266,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -255,6 +278,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -266,6 +290,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -277,6 +302,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -288,6 +314,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -299,6 +326,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -310,6 +338,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -321,6 +350,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -332,6 +362,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -343,6 +374,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -354,6 +386,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -365,6 +398,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -376,6 +410,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -387,6 +422,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -398,6 +434,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -409,6 +446,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -420,6 +458,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -431,6 +470,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -442,6 +482,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -453,6 +494,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -464,6 +506,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -475,6 +518,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -486,6 +530,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -497,6 +542,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -508,6 +554,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -519,6 +566,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -530,6 +578,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -541,6 +590,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
@@ -552,6 +602,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
+		rarelity:'⭐︎',
 		type: '結界',
 		x: 50,
 		y: 50,
