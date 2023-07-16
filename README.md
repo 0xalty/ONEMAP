@@ -10,3 +10,7 @@ Allow users to place photos
 <br> Linkage with Google map
 <br> Connect with meta mask
 <br> Connect users through photos
+
+
+
+#### We want to create a "narrow Internet"
