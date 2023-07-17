@@ -8,7 +8,7 @@ dataArray = [
 		y: 90,
 		date: '2023年7月11日',
 		comment: '市ヶ谷では珍しいカラフルなオブジェ',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_062928306.MP.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/WXvmspVWJ4AwB3jG8',
 	},
 
@@ -20,19 +20,19 @@ dataArray = [
 		y: 85,
 		date: '2023年7月11日',
 		comment: 'おとぎ話に誘われそう',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_063015077.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/ZJQmoX3PtmPuzGLf9',
 	},
 
 	{
 		icon: '🧻',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎⭐︎',
 		type: '切り絵',
 		x: 50,
 		y: 80,
 		date: '2023年7月11日',
 		comment: '紙が切り貼りしてるみたい',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_072751464.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/1wntcm7nHPtqQhZU7',		
 	},
 
@@ -44,7 +44,7 @@ dataArray = [
 		y: 75,
 		date: '2023年7月11日',
 		comment: 'デュシャンの泉についてるｳ○ﾁ',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_063123040.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/PcrSounvAnkKntx69',
 	},
 
@@ -56,7 +56,7 @@ dataArray = [
 		y: 70,
 		date: '2023年7月11日',
 		comment: 'たばこは売ってないよ。(´∀｀)アサヒ',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_063136581.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/L6ZMcWpLhs5Tm7249',
 	},
 
@@ -68,7 +68,7 @@ dataArray = [
 		y: 65,
 		date: '2023年7月11日',
 		comment: 'ジブリとかに出てきそう',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_063216333.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/vsiLbGqyWVVkMDfK6',
 	},
 
@@ -80,7 +80,7 @@ dataArray = [
 		y: 60,
 		date: '2023年7月11日',
 		comment: '炎が風に揺られている',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_072553386.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/uskHEQPu6NpvCdPn8',
 	},
 
@@ -92,19 +92,19 @@ dataArray = [
 		y: 55,
 		date: '2023年7月11日',
 		comment: '電気とか走ってる？',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_072530073.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/L6XF9h8A59shyqNU9',
 	},
 
 	{
 		icon: '🛹',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎',
 		type: '二人乗りスケートボーダー',
 		x: 50,
 		y: 50,
 		date: '2023年7月11日',
 		comment: '親子で仲良く二人乗り',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_063552846.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/FKSs96Mz9s8a2Pif9',
 	},
 
@@ -116,19 +116,19 @@ dataArray = [
 		y: 45,
 		date: '2023年7月11日',
 		comment: '自販機の中に一瞬入りたい',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_063838576.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/qJeYuffwne6CpZnz7',
 	},
 
 	{
 		icon: '🪵',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎⭐︎',
 		type: '肩身が狭い木',
 		x: 50,
 		y: 40,
 		date: '2023年7月11日',
 		comment: '建物と電線に囲まれて細々と生きてます',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_063854935.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/7dM3TyoAs6Ho8FKH7',
 	},
 
@@ -136,11 +136,11 @@ dataArray = [
 		icon: '🍜',
 		rarelity:'⭐︎',
 		type: '十割蕎麦',
-		x: 50,
-		y: 45,
+		x: 20,
+		y: 65,
 		date: '2023年7月11日',
 		comment: '何が十割！？',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_064312008.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/CCoMNRe1KYAhvkTo8',
 	},
 
@@ -152,7 +152,7 @@ dataArray = [
 		y: 35,
 		date: '2023年7月11日',
 		comment: '奉納されてるみたい',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_064542509.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/BxibNuvZz5dUYrzFA',
 	},
 
@@ -164,19 +164,19 @@ dataArray = [
 		y: 30,
 		date: '2023年7月11日',
 		comment: 'これはもうそれ',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_064610150.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/duvGaUE9eZQ8Ymvc7',
 	},
 
 	{
 		icon: '🇰🇷',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎',
 		type: '韓国街',
 		x: 50,
 		y: 27,
 		date: '2023年7月11日',
 		comment: '高校周辺の看板が全部韓国語',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_064724415.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/cxtP18PMXpS6xHPg7',
 	},
 
@@ -188,31 +188,31 @@ dataArray = [
 		y: 27,
 		date: '2023年7月11日',
 		comment: '老人ホームには見えない',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_065104157.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/AKL8VgS8DhtMb8hFA',
 	},
 
 	{
 		icon: '🚲',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎',
 		type: '二輪',
 		x: 58,
 		y: 27,
 		date: '2023年7月11日',
 		comment: '駐輪はしてないけど',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_065127274.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/nbyF36izqxJKMQTV9',
 	},
 
 	{
 		icon: '🐚',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎⭐︎',
 		type: '二枚貝',
 		x: 63,
 		y: 25,
 		date: '2023年7月11日',
 		comment: '敷地の四方に石があって結界みたい',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_065243826.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/YToeVNYAPxQNkPADA',
 	},
 
@@ -224,7 +224,7 @@ dataArray = [
 		y: 22,
 		date: '2023年7月11日',
 		comment: '土には還らない',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_065332000.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/mZtQw1APNxMMiLJZ9',
 	},
 
@@ -236,31 +236,31 @@ dataArray = [
 		y: 27,
 		date: '2023年7月11日',
 		comment: '店名は無いけどうなぎを焼いてますい',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_065534249.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/Ua8rsRvkH7BbFedZ9',
 	},
 
 	{
 		icon: '📮',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎⭐︎',
 		type: '自家製郵便ポスト',
 		x: 70,
 		y: 27,
 		date: '2023年7月11日',
 		comment: 'なぜ自宅ポストに郵便マークが！？',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_065636010.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/HoB6awPLXfUwuT4o7',
 	},
 
 	{
 		icon: '🪧',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎',
 		type: 'アーバンプレイス',
 		x: 75,
 		y: 27,
 		date: '2023年7月11日',
 		comment: 'ちょっとダサい',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_065713692.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/WUZumQMUXdbtcYoQA',
 	},
 
@@ -272,7 +272,7 @@ dataArray = [
 		y: 27,
 		date: '2023年7月11日',
 		comment: '意味わからん',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_065812461.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/9so5ZVURnuM5YuyD9',
 	},
 
@@ -284,7 +284,7 @@ dataArray = [
 		y: 34,
 		date: '2023年7月11日',
 		comment: 'かわいい',
-		image: 'adamski.jpg',
+		image: 'PXL_20230711_070031244.jpg',
 		GeolocationPosition: 'https://goo.gl/maps/xH9zV1k5UCe7mqo6A',
 	},
 
@@ -296,8 +296,8 @@ dataArray = [
 		y: 34,
 		date: '2023年7月11日',
 		comment: '違和感',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230711_070102635.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/WpUhQUmo1Rq3DYrU8',
 	},
 
 	{
@@ -308,8 +308,8 @@ dataArray = [
 		y: 40,
 		date: '2023年7月11日',
 		comment: 'ドアがかわいい',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230711_070238605.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/aMWXnSAbCyi1n3zX7',
 	},
 
 	{
@@ -320,8 +320,8 @@ dataArray = [
 		y: 37,
 		date: '2023年7月11日',
 		comment: 'どゆこと',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230711_070302587.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/zAaTDtVqi6BJTCrQ9',
 	},
 
 	{
@@ -332,8 +332,8 @@ dataArray = [
 		y: 47,
 		date: '2023年7月11日',
 		comment: 'ビンゴしまくり',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230711_070541016.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/KpoWJxAwi4zSQs7A7',
 	},
 
 	{
@@ -344,20 +344,20 @@ dataArray = [
 		y: 47,
 		date: '2023年7月11日',
 		comment: '細いなー',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230711_070610470.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/V2C7r4QHAPtPH7pB8',
 	},
 
 	{
 		icon: '👍',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎',
 		type: '指紋(門)',
 		x: 60,
 		y: 65,
 		date: '2023年7月11日',
 		comment: '指紋みたいな門',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230711_071636609.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/dXmnXUvvwwP8HEFN8',
 	},
 
 	{
@@ -368,32 +368,32 @@ dataArray = [
 		y: 70,
 		date: '2023年7月11日',
 		comment: '写真で見た美術館を想起する',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230711_072249708.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/3DMTXxhgmeZRfrEv6',
 	},
 
 	{
 		icon: '🍟',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎⭐︎',
 		type: 'ぽってっとポテチ',
 		x: 55,
 		y: 75,
 		date: '2023年7月11日',
 		comment: 'ポテチのバッグがポツンと',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230711_072200448.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/cxX39tSMPXV2MQmi6',
 	},
 
 	{
 		icon: '🐿',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎⭐︎⭐︎',
 		type: 'ハム三郎',
 		x: 55,
 		y: 77,
 		date: '2023年7月11日',
 		comment: 'お休み',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230711_072139208.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/PnbvMNjroDrFNjPM8',
 	},
 
 
@@ -406,8 +406,8 @@ dataArray = [
 		y: 35,
 		date: '2023年7月5日',
 		comment: 'まいばすけっとがすぐ近くに2軒',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230705_033420520.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/BQJTbPybQMMzXTGf9',
 	},
 
 	{
@@ -418,31 +418,31 @@ dataArray = [
 		y: 35,
 		date: '2023年7月5日',
 		comment: 'まいばすけっとがすぐ近くに2軒',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230705_034031858.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/Mxwtu85bF63qH4Fe7',
 	},
 
 	{
 		icon: '🚧',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎',
 		type: 'ガードパック',
 		x: 18,
 		y: 35,
 		date: '2023年7月5日',
 		comment: '大量のガードレール',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230705_034321362.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/mYU1X3ehb7hmEisT9',
 	},
 
 	{
 		icon: '👹',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎⭐︎⭐︎⭐︎',
 		type: '守り神',
 		x: 19,
 		y: 45,
 		date: '2023年7月5日',
 		comment: '悪い奴はいねえか〜',
-		image: 'adamski.jpg',
+		image: 'PXL_20230705_034604876.jpg',
 		GeolocationPosition: '',
 	},
 
@@ -454,8 +454,8 @@ dataArray = [
 		y: 55,
 		date: '2023年7月5日',
 		comment: 'ドラえもんの色にしか見えない',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230705_034908275.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/M8psHj2fiHScHU6GA',
 	},
 
 	{
@@ -466,8 +466,8 @@ dataArray = [
 		y: 70,
 		date: '2023年7月5日',
 		comment: '倉庫にもじゃッと',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230705_035428717.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/xVr4cM3YRfPcfSha8',
 	},
 
 
@@ -480,8 +480,8 @@ dataArray = [
 		y: 80,
 		date: '2023年6月28日',
 		comment: '敷地の四方に石があって結界みたい',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230628_034515280.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/6aL5SZKHz2dZZ2j88',
 	},
 
 	{
@@ -491,21 +491,21 @@ dataArray = [
 		x: 45,
 		y: 55,
 		date: '2023年6月28日',
-		comment: '敷地の四方に石があって結界みたい',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		comment: '中はどうなっているのか',
+		image: 'PXL_20230628_034829888.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/nKyVtu2spNwfsSSz9',
 	},
 
 	{
 		icon: '🗿',
-		rarelity:'⭐︎',
+		rarelity:'⭐︎⭐︎⭐︎⭐︎⭐︎',
 		type: '結界',
 		x: 60,
 		y: 55,
 		date: '2023年6月28日',
 		comment: '敷地の四方に石があって結界みたい',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230628_041434588.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/s62mn3rUjNSEXd4n7',
 	},
 
 	{
@@ -516,8 +516,8 @@ dataArray = [
 		y: 55,
 		date: '2023年6月28日',
 		comment: 'オレンジの洞窟',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230628_035402313.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/jNsHmTbnfuvfmibb8',
 	},
 
 	{
@@ -528,8 +528,8 @@ dataArray = [
 		y: 65,
 		date: '2023年6月28日',
 		comment: '涼しい',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230628_035840357.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/X5uKNFj9kZRbNmHfA',
 	},
 
 	{
@@ -540,8 +540,7 @@ dataArray = [
 		y: 65,
 		date: '2023年6月28日',
 		comment: 'どっかで見たことある',
-		image: 'adamski.jpg',
-		GeolocationPosition: '',
+		image: 'PXL_20230628_041804343.jpg',
+		GeolocationPosition: 'https://goo.gl/maps/PbFuoXtYew4bz5p78',
 	},
-
-];
+]
