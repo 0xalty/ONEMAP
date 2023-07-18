@@ -10,6 +10,7 @@ class UFO {
 		this.date = data.date;
 		this.comment = data.comment;
 		this.image = data.image;
+		this.category = data.category;
 		this.rarelity = data.rarelity;
 		this.GeolocationPosition = data.GeolocationPosition
 	}

@@ -25,6 +25,7 @@ button {
 	font-weight: bold;
 	background-color: #9bb1ff;
 	cursor: pointer;
+	
 }
 
 a {
@@ -142,3 +143,4 @@ align-items: center;
 .detailpanel-visible {
 	display: block;
 }
+  
