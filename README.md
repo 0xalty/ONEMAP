@@ -11,7 +11,7 @@ Allow users to place photos
 <br> Connect with meta mask
 <br> Connect users through photos
 
-![Uploading スクリーンショット 2023-07-18 23.57.02.png…]()
+img (スクリーンショット 2023-07-18 23.57.02.png)
 
 
 #### We want to create a "narrow Internet"
