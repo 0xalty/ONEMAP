@@ -2,7 +2,7 @@ dataArray = [
 	// 一層目
 	{
 		icon: '🗼',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: '青い塔',
 		x: 50,
 		y: 117,
@@ -14,7 +14,7 @@ dataArray = [
 
 	{
 		icon: '🌳',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'グリーンロード',
 		x: 50,
 		y: 112,
@@ -26,7 +26,7 @@ dataArray = [
 
 	{
 		icon: '🧻',
-		rarelity:'⭐︎⭐︎⭐︎',
+		rarelity:'🌸🌸🌸',
 		type: '切り絵',
 		x: 50,
 		y: 107,
@@ -38,7 +38,7 @@ dataArray = [
 
 	{
 		icon: '💩',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'ｳ○ﾁ',
 		x: 50,
 		y: 102,
@@ -50,7 +50,7 @@ dataArray = [
 
 	{
 		icon: '🚬',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'たばこ',
 		x: 50,
 		y: 97,
@@ -62,7 +62,7 @@ dataArray = [
 
 	{
 		icon: '📻',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: '昭和',
 		x: 50,
 		y: 92,
@@ -74,7 +74,7 @@ dataArray = [
 
 	{
 		icon: '🔥',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'メラメラ',
 		x: 50,
 		y: 87,
@@ -86,7 +86,7 @@ dataArray = [
 
 	{
 		icon: '⛓',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: '鉄格子',
 		x: 50,
 		y: 82,
@@ -98,7 +98,7 @@ dataArray = [
 
 	{
 		icon: '🛹',
-		rarelity:'⭐︎⭐︎',
+		rarelity:'🌸🌸',
 		type: '二人乗りスケートボーダー',
 		x: 50,
 		y: 77,
@@ -110,7 +110,7 @@ dataArray = [
 
 	{
 		icon: '🐻',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'しろくま',
 		x: 50,
 		y: 72,
@@ -122,7 +122,7 @@ dataArray = [
 
 	{
 		icon: '🪵',
-		rarelity:'⭐︎⭐︎⭐︎',
+		rarelity:'🌸🌸🌸',
 		type: '肩身が狭い木',
 		x: 50,
 		y: 67,
@@ -134,10 +134,10 @@ dataArray = [
 
 	{
 		icon: '🍜',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: '十割蕎麦',
 		x: 50,
-		y: 57,
+		y: 62,
 		date: '2023年7月11日',
 		comment: '何が十割！？',
 		image: 'day3/PXL_20230711_064312008.jpg',
@@ -146,10 +146,10 @@ dataArray = [
 
 	{
 		icon: '🍀',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: '円陣',
 		x: 50,
-		y: 62,
+		y: 59,
 		date: '2023年7月11日',
 		comment: '奉納されてるみたい',
 		image: 'day3/PXL_20230711_064542509.jpg',
@@ -158,10 +158,10 @@ dataArray = [
 
 	{
 		icon: '💩',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'ｳ●ﾁ',
 		x: 50,
-		y: 77,
+		y: 54,
 		date: '2023年7月11日',
 		comment: 'これはもうそれ',
 		image: 'day3/PXL_20230711_064610150.jpg',
@@ -170,10 +170,10 @@ dataArray = [
 
 	{
 		icon: '🇰🇷',
-		rarelity:'⭐︎⭐︎',
+		rarelity:'🌸🌸',
 		type: '韓国街',
 		x: 50,
-		y: 52,
+		y: 51,
 		date: '2023年7月11日',
 		comment: '高校周辺の看板が全部韓国語',
 		image: 'day3/PXL_20230711_064724415.jpg',
@@ -194,7 +194,7 @@ dataArray = [
 
 	{
 		icon: '🚲',
-		rarelity:'⭐︎⭐︎',
+		rarelity:'🌸🌸',
 		type: '二輪',
 		x: 58,
 		y: 52,
@@ -206,7 +206,7 @@ dataArray = [
 
 	{
 		icon: '🐚',
-		rarelity:'⭐︎⭐︎⭐︎',
+		rarelity:'🌸🌸🌸',
 		type: '二枚貝',
 		x: 63,
 		y: 50,
@@ -218,7 +218,7 @@ dataArray = [
 
 	{
 		icon: '🚲',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: '寄生された二輪車',
 		x: 63,
 		y: 57,
@@ -230,7 +230,7 @@ dataArray = [
 
 	{
 		icon: '🐟',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'うなぎ',
 		x: 67,
 		y: 52,
@@ -242,7 +242,7 @@ dataArray = [
 
 	{
 		icon: '📮',
-		rarelity:'⭐︎⭐︎⭐︎',
+		rarelity:'🌸🌸🌸',
 		type: '自家製郵便ポスト',
 		x: 70,
 		y: 52,
@@ -254,7 +254,7 @@ dataArray = [
 
 	{
 		icon: '🪧',
-		rarelity:'⭐︎⭐︎',
+		rarelity:'🌸🌸',
 		type: 'アーバンプレイス',
 		x: 75,
 		y: 52,
@@ -266,7 +266,7 @@ dataArray = [
 
 	{
 		icon: '🪧',
-		rarelity:'⭐︎⭐︎⭐︎',
+		rarelity:'🌸🌸🌸',
 		type: 'フラットジョイ',
 		x: 78,
 		y: 52,
@@ -278,7 +278,7 @@ dataArray = [
 
 	{
 		icon: '📫',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'デンデンムシ',
 		x: 79,
 		y: 59,
@@ -290,7 +290,7 @@ dataArray = [
 
 	{
 		icon: '🧩',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: '応急処置',
 		x: 77,
 		y: 59,
@@ -302,7 +302,7 @@ dataArray = [
 
 	{
 		icon: '🦉',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'フクロウショップ',
 		x: 72,
 		y: 65,
@@ -314,7 +314,7 @@ dataArray = [
 
 	{
 		icon: '🍖',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: '沈黙の肉',
 		x: 72,
 		y: 62,
@@ -326,7 +326,7 @@ dataArray = [
 
 	{
 		icon: '🔮',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'ダブルビンゴ',
 		x: 72,
 		y: 72,
@@ -338,7 +338,7 @@ dataArray = [
 
 	{
 		icon: '🏠',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'ひょろなが邸',
 		x: 70,
 		y: 72,
@@ -350,7 +350,7 @@ dataArray = [
 
 	{
 		icon: '👍',
-		rarelity:'⭐︎⭐︎',
+		rarelity:'🌸🌸',
 		type: '指紋(門)',
 		x: 60,
 		y: 90,
@@ -362,7 +362,7 @@ dataArray = [
 
 	{
 		icon: '🏛',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'ポーラ美術館',
 		x: 55,
 		y: 95,
@@ -374,7 +374,7 @@ dataArray = [
 
 	{
 		icon: '🍟',
-		rarelity:'⭐︎⭐︎⭐︎',
+		rarelity:'🌸🌸🌸',
 		type: 'ぽってっとポテチ',
 		x: 55,
 		y: 100,
@@ -386,7 +386,7 @@ dataArray = [
 
 	{
 		icon: '🐿',
-		rarelity:'⭐︎⭐︎⭐︎⭐︎',
+		rarelity:'🌸🌸🌸🌸',
 		type: 'ハム三郎',
 		x: 55,
 		y: 102,
@@ -400,7 +400,7 @@ dataArray = [
 	// 二層目
 	{
 		icon: '⛩',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: '赤門',
 		x: 38,
 		y: 60,
@@ -412,7 +412,7 @@ dataArray = [
 
 	{
 		icon: '⛩',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: '赤門',
 		x: 33,
 		y: 60,
@@ -424,7 +424,7 @@ dataArray = [
 
 	{
 		icon: '🚧',
-		rarelity:'⭐︎⭐︎',
+		rarelity:'🌸🌸',
 		type: 'ガードパック',
 		x: 18,
 		y: 60,
@@ -436,7 +436,7 @@ dataArray = [
 
 	{
 		icon: '👹',
-		rarelity:'⭐︎⭐︎⭐︎⭐︎⭐︎',
+		rarelity:'🌸🌸🌸🌸🌸',
 		type: '守り神',
 		x: 19,
 		y: 70,
@@ -448,7 +448,7 @@ dataArray = [
 
 	{
 		icon: '🚪',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'ドラえもん',
 		x: 20,
 		y: 80,
@@ -460,7 +460,7 @@ dataArray = [
 
 	{
 		icon: '🌱',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'もじゃもじゃ',
 		x: 20,
 		y: 95,
@@ -474,7 +474,7 @@ dataArray = [
 	//三層目
 	{
 		icon: '🥢',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'CI行きつけ中華',
 		x: 45,
 		y: 108,
@@ -486,7 +486,7 @@ dataArray = [
 
 	{
 		icon: '🏯',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: '鉄壁',
 		x: 45,
 		y: 80,
@@ -498,7 +498,7 @@ dataArray = [
 
 	{
 		icon: '🗿',
-		rarelity:'⭐︎⭐︎⭐︎⭐︎⭐︎',
+		rarelity:'🌸🌸🌸🌸🌸',
 		type: '結界',
 		x: 60,
 		y: 80,
@@ -510,7 +510,7 @@ dataArray = [
 
 	{
 		icon: '⛰',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: '洞窟',
 		x: 68,
 		y: 80,
@@ -522,7 +522,7 @@ dataArray = [
 
 	{
 		icon: '🎐',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: '風の通り道',
 		x: 78,
 		y: 90,
@@ -534,7 +534,7 @@ dataArray = [
 
 	{
 		icon: '🐰',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'NHK',
 		x: 61,
 		y: 100,
@@ -546,7 +546,7 @@ dataArray = [
 
 	{
 		icon: '🎓',
-		rarelity:'⭐︎',
+		rarelity:'🌸',
 		type: 'ムサビ',
 		x: 45,
 		y: 117,

@@ -170,6 +170,7 @@ function closeDetailPanel() {
 	
 }
 
+
 // アップロードフォームのイベントリスナーを設定
 document.getElementById('uploadForm').addEventListener('submit', function(event) {
 	event.preventDefault(); // デフォルトのフォーム送信を防止
