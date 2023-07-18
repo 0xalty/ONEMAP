@@ -170,3 +170,49 @@ function closeDetailPanel() {
 	
 }
 
+// アップロードフォームのイベントリスナーを設定
+document.getElementById('uploadForm').addEventListener('submit', function(event) {
+	event.preventDefault(); // デフォルトのフォーム送信を防止
+  
+	// 入力値を取得
+	var imageInput = document.getElementById('imageInput');
+	var locationInput = document.getElementById('locationInput');
+  
+	// フォームデータを作成
+	var formData = new FormData();
+	formData.append('image', imageInput.files[0]);
+	formData.append('location', locationInput.value);
+  
+	// ここで写真のログや位置情報を記録する処理を追加する
+  
+	// アップロードが完了した後の処理を記述する場合は、以下のコードを使用
+	// フォーム送信先のURLを指定
+	// var url = 'upload.php';
+	// var request = new XMLHttpRequest();
+	// request.open('POST', url, true);
+	// request.onload = function() {
+	//   if (request.status === 200) {
+	//     // アップロード成功時の処理
+	//   } else {
+	//     // アップロード失敗時の処理
+	//   }
+	// };
+	// request.send(formData);
+  });
+  
+  // ユーザーが画像を選択した際にプレビューを表示
+  document.getElementById('imageInput').addEventListener('change', function() {
+	var file = this.files[0];
+	var reader = new FileReader();
+  
+	reader.onload = function(e) {
+	  var imageContainer = document.getElementById('imageContainer');
+	  var img = document.createElement('img');
+	  img.src = e.target.result;
+	  imageContainer.innerHTML = '';
+	  imageContainer.appendChild(img);
+	};
+  
+	reader.readAsDataURL(file);
+  });
+  

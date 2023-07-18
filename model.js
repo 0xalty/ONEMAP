@@ -9,6 +9,7 @@ class UFO {
 		this.y = data.y;
 		this.date = data.date;
 		this.comment = data.comment;
+		this.like = data.like;
 		this.image = data.image;
 		this.category = data.category;
 		this.rarelity = data.rarelity;

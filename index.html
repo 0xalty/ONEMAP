@@ -6,24 +6,55 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />	
 		<link rel="stylesheet" type="text/css" href="style.css" />
 	
-		<title>ONE MAP</title>
+		<title>ONE MAP
+		</title>
+		
+
+		<meta charset="UTF-8">
+  		<title>街の画像アップロード</title>
+  		<link rel="stylesheet" type="text/css" href="styles.css">
 		
 	</head>
 
 		<body>
 			<div>
 				<div class="header">
-					<p>ONE MAP @ichigaya 🧻  🔥  💩  🇰🇷  🐚  🧩  🔮  👍  🍟  🐿  ⛩  🚧  👹  🏯  🗿  ⛰  🎐  🐰</p>
-					<a href="https://github.com/0xalty/ONEMAP" target="_blank"
-					>GitHub</a
-					>
-				</div>
+				<h3>ONE MAP</h3>
+				<a href="https://metamask.io/">CONNECT WALLET  🦊</a>
+					
+			</div>
+
+			<h1>さがす</h1>
+			<input type="text" id="search-input">
+				<button type="button" onclick="search()">検索</button>
+
+				<script>
+  				function search() {
+    				var searchTerm = document.getElementById('search-input').value;
+    				// 検索処理を行うコードをここに追加する
+
+    				// 例: コンソールに検索キーワードを表示する
+    				console.log('検索キーワード:', searchTerm);
+  					}
+				</script>
+
+
+
+			<h2>注目のイメージ</h2>
+			<a href="https://www.google.co.jp/maps/@35.6958468,139.7344538,3a,90y,25.26h,61.21t/data=!3m6!1e1!3m4!1ssZNqZISBnrC_47a2rYcPNg!2e0!7i16384!8i8192?hl=ja&entry=ttu" style="font-size: 48px;">🗿</a>
+			<a href="https://www.google.co.jp/maps/@35.6996665,139.7211129,3a,75y,263.34h,96.86t/data=!3m7!1e1!3m5!1sZcc1WJNyfgwEEmRwKCyi9A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DZcc1WJNyfgwEEmRwKCyi9A%26cb_client%3Dsearch.revgeo_and_fetch.gps%26w%3D96%26h%3D64%26yaw%3D287.83212%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?hl=ja&entry=ttu" style="font-size: 48px;">🐚</a>
+			<a href="https://www.google.co.jp/maps/@35.6963154,139.7320412,3a,21.1y,101.08h,88.23t/data=!3m6!1e1!3m4!1sVs9oi2bmBddV4iwAm5NzBw!2e0!7i16384!8i8192?hl=ja&entry=ttu" style="font-size: 48px;">🐿</a>
+
+
+
+
+				
+  			<div id="imageContainer"></div>
+  			<script src="script.js"></script>
+
+
 			<div class="container">
 			<div class="description">
-			<h3>Ver.0.5 (2023/07/17)
-			<br>レア度：⭐︎〜⭐︎⭐︎⭐︎⭐︎⭐︎　星5は2つあるよ。ヒントは「どちらも守ってくれる存在」
-			
-			</h3>
 			</div>
 			<div id="masterpane" class="masterpane">
 			<div id="detailpanel" class="detailpanel"></div>
@@ -38,12 +69,23 @@
 			</div>
 			</div>
 			</div>
+
+			<h1>街のイメージをシェア</h1>
+  					<form id="uploadForm" enctype="multipart/form-data">
+    					<input type="file" id="imageInput" accept="image/*" required>
+    					<input type="text" id="locationInput" placeholder="情報を入力">
+    					<button type="submit">アップロード</button>
+  					</form>
+
+
 			<div class="footer">
 				<div class="footer-logo">ONE MAP</div>
-				<a href="https://linkbio.co/0xalty" target="_blank"
-					>©︎Ryuta Takahashi</a
+				<a href="https://github.com/0xalty/ONEMAP" target="_blank"
+					>GitHub</a
 					>
 			</div>
+
+			
 		</body>
 
 	<template id="masteritemtemplate">
@@ -65,11 +107,11 @@
 		<div class="detail">
 			
 			<div>
-				<span style="font-size: 13px; font-weight: bold;">レア度:</span> <span data-key="rarelity" style="font-size: 13px;"></span>
+				<span style="font-size: 13px; font-weight: bold;">レア度</span> <span data-key="rarelity" style="font-size: 13px;"></span>
 			</div>
 
 			<div>
-				<span style="font-size: 13px; font-weight: bold;">あだ名:</span> <span data-key="type" style="font-size: 13px;"></span>
+				<span style="font-size: 13px; font-weight: bold;">あだ名</span> <span data-key="type" style="font-size: 13px;"></span>
 			</div>
 
 			<!-- <div>
@@ -77,19 +119,25 @@
 			</div> -->
 
 			<div>
-				<span style="font-size: 13px; font-weight: bold;">撮影日:</span> <span data-key="date" style="font-size: 13px;"></span>
+				<span style="font-size: 10px; font-weight: normal; color: gray;">撮影日</span> <span data-key="date" style="font-size: 10px; color: gray;"></span>
 			</div>
 	
 			<div><img data-key="image" data-attr-key="src" alt="" /></div>
 
 			<div>
-				<span style="font-size: 13px; font-weight: bold;">メモ:</span> <span data-key="comment" style="font-size: 13px;"></span>
+				<span style="font-size: 13px; font-weight: bold;">💬</span> <span data-key="comment" style="font-size: 13px;"></span>
 			</div>
 
 			<div style="margin-top: 5px;">
 				<button data-action="link">Google Maps</button>
 			</div>
 	
+			<div>
+				<span style="font-size: 17px; font-weight: bold;">👍 👎 😍 🥺 😱</span> <span data-key="like" style="font-size: 15px;"></span>
+			</div>
+
+			
+
 		</div>
 		
 		<!-- Template for detial ends -->
@@ -101,3 +149,12 @@
 <script src="data.js"></script>
 <script src="model.js"></script>
 <script src="viewcontroller.js"></script>
+
+
+<head>
+  
+</head>
+<body>
+  
+</body>
+</html>
