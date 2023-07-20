@@ -13,10 +13,6 @@ Allow users to place photos
 <img width="900" alt="スクリーンショット 2023-07-18 23 59 10" src="https://github.com/0xalty/ONEMAP/assets/129202655/2d36da84-08a3-4ca5-9fe8-b03466dc9e5b">
 
 
-
-### We want to create a "narrow Internet"
-
-
 ## Concept
 
 ### What is a city?
