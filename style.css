@@ -29,6 +29,17 @@ button:active {
   background-color: rgba(0, 0, 0, 0.1);
 }
 
+a {
+  color: white;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+a:visited {
+  color: white;
+  text-decoration: underline;
+}
+
 .base {
   /* padding-left: 300px; */
   display: flex;
@@ -45,6 +56,9 @@ button:active {
   font-size: 20px;
   color: #ffffff;
   font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .container {
@@ -70,7 +84,7 @@ button:active {
 .masterpane {
   width: 600px;
   height: 600px;
-  background-image: url(800px-Graph-paper.svg.png);
+  /* background-image: url(800px-Graph-paper.svg.png); */
   background-size: cover;
   background-color: #ffffff;
   margin-bottom: 10px;

@@ -1,37 +1,33 @@
 // Class definition
 
 class UFO {
-		
-	constructor( data ) {
-		this.icon = data.icon;
-		this.type = data.type;
-		this.x = data.x;
-		this.y = data.y;
-		this.date = data.date;
-		this.comment = data.comment;
-		this.image = data.image
-		this.GeolocationPosition = data.GeolocationPosition
-	}
+  constructor(data) {
+    this.icon = data.icon;
+    this.type = data.type;
+    this.x = data.x;
+    this.y = data.y;
+    this.date = data.date;
+    this.comment = data.comment;
+    this.image = data.image;
+    this.GeolocationPosition = data.GeolocationPosition;
+    this.rarerity = data.rarerity;
+  }
 
-	showComment() {
-		alert( this.comment );
-	}
+  showComment() {
+    alert(this.comment);
+  }
 
-	link() {
-		location.href = this.GeolocationPosition;
-	}
-	
-};
-
+  link() {
+    location.href = this.GeolocationPosition;
+  }
+}
 
 // Instantiation
 
-objects =[];
+objects = [];
 
-for ( let i = 0, l = dataArray.length; i < l; i++ ) {
-	
-	const object = new UFO( dataArray[ i ] );
-	
-	objects.push( object );
+for (let i = 0, l = dataArray.length; i < l; i++) {
+  const object = new UFO(dataArray[i]);
 
-};
+  objects.push(object);
+}
