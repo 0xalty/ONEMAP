@@ -8,14 +8,16 @@ class UFO {
     this.y = data.y;
     this.date = data.date;
     this.comment = data.comment;
+    this.like = data.like;
     this.image = data.image;
+    this.category = data.category;
+    this.rarelity = data.rarelity;
     this.GeolocationPosition = data.GeolocationPosition;
-    this.rarerity = data.rarerity;
   }
 
-  showComment() {
-    alert(this.comment);
-  }
+  // showComment() {
+  // 	alert( this.comment );
+  // }
 
   link() {
     location.href = this.GeolocationPosition;
