@@ -24,4 +24,5 @@ The virtual images of cities that we construct in our brains allow for an intera
 Today, the technological development of reproduction has made it easy to establish a public image. However, if we subdivide a city into smaller parts, there must be many maniacal urban objects that are still lying around. And their charms can only be discovered by going deep into the land. And this is not something that can be done by a single observer walking around a city. ONE MAP is an interface where a city floating from its location is covered by a city with a physical space, and interacts with the world.
 
 
-![7c405002-2c02-43fc-b326-a994f40a8b59](https://github.com/0xalty/ONEMAP/assets/129202655/f06d9070-3d16-40a1-b764-6d11f7aab3ee)
+
+<img width="1440" alt="スクリーンショット 2023-12-19 13 13 24" src="https://github.com/0xalty/ONEMAP/assets/129202655/3a7ab0a4-616b-4e92-b937-aaaaa18c25c9">
